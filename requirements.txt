@@ -1,0 +1,8 @@
+streamlit
+plotly
+pyproj
+shapely
+numpy
+pandas
+lxml
+pytest
